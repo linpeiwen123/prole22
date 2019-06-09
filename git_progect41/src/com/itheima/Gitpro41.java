@@ -7,5 +7,9 @@ public class Gitpro41 {
 
         System.out.println("这是分支");
         System.out.println("你好");
+
+        for (int i = 0; i <10 ; i++) {
+            System.out.println(i);
+        }
     }
 }
