@@ -7,5 +7,8 @@ public class Gitpro41 {
 
         System.out.println("这是分支");
         System.out.println("你好");
+
+        Cative cative = new Cative();
+        cative.mainsya();
     }
 }
